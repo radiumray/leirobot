@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+  <link href='http://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet' type='text/css'>
+	
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>频道</title>
+	
+	
+	<!--调用jquery,bootstrap-->
+	<script src="javascripts/jquery-1.9.1.min.js"></script>
+	<script src="bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="FeedEk-master/js/FeedEk.js"></script>
+
+
+
+<script type="text/javascript" >
+    $(document).ready(function () {  
+        $('#divRss').FeedEk({
+            FeedUrl: 'http://feed.feedsky.com/diggdigest',
+            MaxCount: 5,
+            ShowDesc: true,
+            ShowPubDate: true
+            //DescCharacterLimit: 100
+
+        });
+
+		
+
+	    });    
+
+</script>
+
+
+
+  </head>
+
+  <body>
+
+
+
+<div class="rssDiv">
+煎蛋
+<div id="divRss"></div>
+</div>
+
+
+
+
+
+
+
+  </body>
+</html>

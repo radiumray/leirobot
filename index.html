@@ -1,79 +1,169 @@
 <!DOCTYPE html>
 <html>
-
   <head>
-    <meta charset='utf-8' />
-    <meta http-equiv="X-UA-Compatible" content="chrome=1" />
-    <meta name="description" content="Leirobot : leirobot" />
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+	<link rel="shortcut icon" href="images/zl.ico" /> 
 
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
+	<link href='http://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet' type='text/css'>
+	
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>雷的肉包子</title>
+	
+	
+	<!--调用jquery,bootstrap-->
+	<script src="javascripts/jquery-1.9.1.min.js"></script>
+	<script src="bootstrap/js/bootstrap.min.js"></script>
 
-    <title>Leirobot</title>
+
   </head>
 
   <body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/radiumray/leirobot">View on GitHub</a>
+<!--谷歌分析-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-          <h1 id="project_title">Leirobot</h1>
-          <h2 id="project_tagline">leirobot</h2>
+  ga('create', 'UA-41463061-1', 'leirobot.com');
+  ga('send', 'pageview');
 
-            <section id="downloads">
-              <a class="zip_download_link" href="https://github.com/radiumray/leirobot/zipball/master">Download this project as a .zip file</a>
-              <a class="tar_download_link" href="https://github.com/radiumray/leirobot/tarball/master">Download this project as a tar.gz file</a>
-            </section>
+</script>
+
+
+
+<script>
+  audiojs.events.ready(function() {
+    var as = audiojs.createAll();
+  });
+</script>
+
+        <header>
+			<img src="images/robot.png">
         </header>
-    </div>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
+    <ul class="thumbnails">
+		<li class="span2">
+			<a href="movie.html">
+			<div class="thumbnail">
+			<img data-src="holder.js/200x123" alt="" src="images/IMDb.png" class="img-circle">
+			电影
+			</div>
+			</a>
+		</li>
+		<li class="span2">
+			<a href="channel.html">
+				<div class="thumbnail">
+				<img data-src="holder.js/200x123" alt="">
+				频道
+				</div>
+			</a>
+		</li>
+		<li class="span2">
+			<a href="nicewebsite.html">
+			<div class="thumbnail">
+			<img data-src="holder.js/200x123" alt="">
+			nice网站
+			</div>
+			</a>
+		</li>
+		<li class="span2">
+			<a href="music/music.html">
+			<div class="thumbnail">
+			<img data-src="holder.js/200x123" alt="">
+			音乐
+			</div>
+			</a>
+		</li>
+		<li class="span2">
+			<a href="taobao.html">
+				<div class="thumbnail">
+				<img data-src="holder.js/200x123" alt="">
+				淘宝店
+				</div>
+			</a>
+		</li>
+		<li class="span2">
+			<a href="tech.html">
+				<div class="thumbnail">
+				<img data-src="holder.js/200x123" alt="" src="images/raspberryPI.gif" class="img-circle">
+				科技
+				<p>Raspberry pi, Arduino, Github, node.js, Linux...</p>
+				</div>
+			</a>
+		</li>
+		<li class="span2">
+			<a href="nasarss.html">
+			<div class="thumbnail">
+			<img data-src="holder.js/200x123" alt="" src="images/nasa.jpg" class="img-circle">
+			NASA
+			</div>
+			</a>
+		</li>
+		<li class="span2">
+			<a href="weibo.html">
+				<div class="thumbnail">
+				<img data-src="holder.js/200x123" alt="" src="images/weibo.jpg" class="img-circle">
+				微博
+				<p>关于站长</p>
+				</div>
+			</a>
+		</li>
+		<li class="span2">
+			<a href="jeforth-master/index.html">
+				<div class="thumbnail">
+				<img data-src="holder.js/200x123" alt="">
+				jeforth-master
+				</div>
+			</a>
+		</li>
+		<li class="span2">
+			<a href="http://yunpan.cn/QXupuCFhfSLqi">
+				<div class="thumbnail">
+				<img data-src="holder.js/200x123" alt="">
+				藏书下载
+				</div>
+			</a>
+		</li>
+    </ul>
 
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
 
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
 
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
 
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
+        <footer>
+		  你问我要去何方，我指着大海的方向<br/>
+		  too cool for school, end up software engineering 少壮不努力,长大做程序猿<br/>
+		  Enter to grow in knowledge, depart to better serve the country and the kind 为人民服务
+        </footer>
 
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+		<img src="images/earth.jpg"><br/>
 
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
 
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
 
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
+Demo is maintained by <a href="https://github.com/radiumray">radiumray</a><br/>
+<a href="http://www.aiwanfund.com.cn">爱晚基金</a>
 
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-      </section>
-    </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">Leirobot maintained by <a href="https://github.com/radiumray">radiumray</a></p>
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
-      </footer>
-    </div>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 老年产品 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-8787689858027269"
+     data-ad-slot="4575143346"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
-    
 
-  </body>
+
+
+</body>
 </html>

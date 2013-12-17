@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <pointer id="1">
+        <link>http://china.rs-online.com/web/</link>
+        <img>rs.gif</img>
+        <name>RS</name>
+    </pointer>
+    <pointer id="2">
+        <link>http://www.ppurl.com</link>
+        <img>ppurl.gif</img>
+        <name>ppurl</name>
+    </pointer>
+    <pointer id="3">
+        <link>http://www.radioshack.com/</link>
+        <img>RadioShack.jpg</img>
+        <name>radioshack</name>
+    </pointer>
+    <pointer id="4">
+        <link>http://www.arduino.cc/</link>
+        <img></img>
+        <name>arduino</name>
+    </pointer>
+    <pointer id="5">
+        <link>http://wiki.microduino.net/</link>
+        <img></img>
+        <name>microduino</name>
+    </pointer>
+    <pointer id="6">
+        <link>http://processing.org/</link>
+        <img></img>
+        <name>processing</name>
+    </pointer>
+    <pointer id="7">
+        <link>http://fritzing.org/</link>
+        <img></img>
+        <name>fritzing</name>
+    </pointer>
+    <pointer id="8">
+        <link>http://pythonbooks.revolunet.com/</link>
+        <img></img>
+        <name>python books</name>
+    </pointer>
+    <pointer id="9">
+        <link>http://hao.uisdc.com/</link>
+        <img></img>
+        <name>网站设计</name>
+    </pointer>
+    <pointer id="10">
+        <link>http://discover-devtools.codeschool.com/</link>
+        <img></img>
+        <name>google code school</name>
+    </pointer>
+    <pointer id="11">
+        <link>http://trifacta.github.io/vega/</link>
+        <img></img>
+        <name>数据可视化</name>
+    </pointer>
+    <pointer id="12">
+        <link>http://www.alvit.de/handbook/#accessibilitycheckers</link>
+        <img></img>
+        <name>web developer's handbook</name>
+    </pointer>
+    <pointer id="13">
+        <link>http://www.soarch.co.il/</link>
+        <img></img>
+        <name>以色列建筑设计</name>
+    </pointer>
+    <pointer id="14">
+        <link>http://blog.miguelgrinberg.com/</link>
+        <img></img>
+        <name>miguelgrinberg</name>
+    </pointer>
+    <pointer id="15">
+        <link>http://www.hkglc.no-ip.com:8181/wordpress/</link>
+        <img></img>
+        <name>Great Awakening</name>
+    </pointer>
+    <pointer id="16">
+        <link>http://www.awaker.org/</link>
+        <img></img>
+        <name>awaker</name>
+    </pointer>
+    <pointer id="17">
+        <link>http://www.56.com/u40/v_NjU2OTkxNTc.html</link>
+        <img></img>
+        <name>舒曼波音乐</name>
+    </pointer>
+    <pointer id="18">
+        <link>http://freefloatingmusic.bandcamp.com/album/783-hz</link>
+        <img></img>
+        <name>7.83</name>
+    </pointer>
+    <pointer id="19">
+        <link>http://www.teslauniverse.com/</link>
+        <img></img>
+        <name>尼古拉-特斯拉</name>
+    </pointer>
+    <pointer id="20">
+        <link>https://github.com/MisaZhu</link>
+        <img></img>
+        <name>MisaZhu</name>
+    </pointer>
+    <pointer id="21">
+        <link>http://applicants.mars-one.com/</link>
+        <img>marsOne.png</img>
+        <name>火星一号,2023年登陆火星,报名</name>
+    </pointer>
+    <pointer id="22">
+        <link>http://www.xiachufang.com/</link>
+        <img></img>
+        <name>爱厨房</name>
+    </pointer>
+    <pointer id="23">
+        <link>http://www.blackhat.com/</link>
+        <img></img>
+        <name>blackhat</name>
+    </pointer>
+    <pointer id="24">
+        <link>http://greatscottgadgets.com/hackrf/</link>
+        <img></img>
+        <name>hackrf</name>
+    </pointer>
+    <pointer id="25">
+        <link>http://ossmann.blogspot.com/</link>
+        <img></img>
+        <name>ossmann about hackrf(ncw)</name>
+    </pointer>
+    <pointer id="26">
+        <link>http://www.minxue.net/</link>
+        <img></img>
+        <name>敏学网</name>
+    </pointer>
+    <pointer id="27">
+        <link>http://sourceforge.net/</link>
+        <img></img>
+        <name>sourceforge</name>
+    </pointer>
+    <pointer id="28">
+        <link>http://www.figtaiwan.org/doc/forthofthink/Data/</link>
+        <img></img>
+        <name>FORTH的禪思</name>
+    </pointer>
+    <pointer id="29">
+        <link>http://www.jeforth.com/tuto/forth-software.html</link>
+        <img></img>
+        <name>选择符合ANS标准的Forth系统学习</name>
+    </pointer>
+    <pointer id="30">
+        <link>http://blog.csdn.net/wxj729</link>
+        <img></img>
+        <name>Forth语言编程专栏</name>
+    </pointer>
+    <pointer id="31">
+        <link>http://www.forth.com/starting-forth/</link>
+        <img></img>
+        <name>starting forth</name>
+    </pointer>
+    <pointer id="32">
+        <link>https://github.com/august0815/forthos</link>
+        <img></img>
+        <name>forthOS</name>
+    </pointer>
+    <pointer id="33">
+        <link>https://speakerdeck.com/</link>
+        <img></img>
+        <name>speakerdeck</name>
+    </pointer>
+    <pointer id="34">
+        <link>http://listen.hatnote.com/</link>
+        <img></img>
+        <name>听, 维基百科</name>
+    </pointer>
+    <pointer id="35">
+        <link>http://www.ruanyifeng.com</link>
+        <img></img>
+        <name>阮一峰的个人网站</name>
+    </pointer>
+    <pointer id="36">
+        <link>http://diceofgod.diandian.com/</link>
+        <img></img>
+        <name>上帝之骰</name>
+    </pointer>
+    <pointer id="37">
+        <link>http://copter.ardupilot.com/</link>
+        <img></img>
+        <name>ardupilot</name>
+    </pointer>
+    <pointer id="38">
+        <link>http://www.osdever.net/</link>
+        <img></img>
+        <name>osdever</name>
+    </pointer>
+    <pointer id="39">
+        <link>http://wiki.osdev.org/Tutorials</link>
+        <img></img>
+        <name>http://wiki.osdev.org/Tutorials</name>
+    </pointer>
+    <pointer id="40">
+        <link>http://www.yeeyan.org/</link>
+        <img></img>
+        <name>译言</name>
+    </pointer>
+    <pointer id="41">
+        <link>http://www.southampton.ac.uk/~sjc/raspberrypi/</link>
+        <img></img>
+        <name>super computer</name>
+    </pointer>
+    <pointer id="42">
+        <link>http://www.fourmilab.ch/atlast/</link>
+        <img></img>
+        <name>fourmilab forth</name>
+    </pointer>
+    <pointer id="43">
+        <link>http://setiathome.berkeley.edu/</link>
+        <img></img>
+        <name>帮忙分析地外文明</name>
+    </pointer>
+    <pointer id="44">
+        <link>http://code.google.com/p/aimos/</link>
+        <img></img>
+        <name>一个简单的操作系统</name>
+    </pointer>
+    <pointer id="45">
+        <link>http://hexairbot.com/</link>
+        <img></img>
+        <name>hexairbot</name>
+    </pointer>
+    <pointer id="46">
+        <link>http://javascript.ruanyifeng.com/</link>
+        <img></img>
+        <name>JavaScript 标准教程</name>
+    </pointer>
+    <pointer id="47">
+        <link>http://m.sciencemag.org/site/feature/data/compsci/machine_learning.xhtml</link>
+        <img></img>
+        <name>机器学习资料</name>
+    </pointer>
+    <pointer id="48">
+        <link>http://sist.sysu.edu.cn/~isscwli/</link>
+        <img></img>
+        <name>李才伟的个人网页</name>
+    </pointer>
+    <pointer id="49">
+        <link>http://paranimage.com/</link>
+        <img></img>
+        <name>帕兰映像</name>
+    </pointer>
+    <pointer id="50">
+        <link>http://hrb.osask.jp/</link>
+        <img></img>
+        <name>30OS</name>
+    </pointer>
+    <pointer id="51">
+        <link>http://zhan.renren.com/leirobot</link>
+        <img></img>
+        <name>小站leirobot</name>
+    </pointer>
+    <pointer id="52">
+        <link>https://github.com/Tassandar/OSASK</link>
+        <img></img>
+        <name>OSASK</name>
+    </pointer>
+    <pointer id="53">
+        <link>http://www.diy-bot.net/</link>
+        <img></img>
+        <name>自制机器人</name>
+    </pointer>
+    <pointer id="54">
+        <link>http://colimited.blog.163.com/</link>
+        <img></img>
+        <name>一氧化碳不多blog</name>
+    </pointer>
+    <pointer id="55">
+        <link>http://rebrickable.com/</link>
+        <img></img>
+        <name>lego再造</name>
+    </pointer>
+    <pointer id="56">
+        <link>http://www.vayamenda.com/</link>
+        <img></img>
+        <name>lego</name>
+    </pointer>
+    <pointer id="57">
+        <link>http://www.bricklink.com/</link>
+        <img></img>
+        <name>lego零件查询</name>
+    </pointer>
+    <pointer id="58">
+        <link>http://www.filecrop.com/</link>
+        <img></img>
+        <name>filecrop</name>
+    </pointer>
+    <pointer id="59">
+        <link>http://www.wonderhowto.com/</link>
+        <img></img>
+        <name>wonderhowto</name>
+    </pointer>
+    <pointer id="60">
+        <link>http://www.mocpages.com</link>
+        <img></img>
+        <name>mocpages</name>
+    </pointer>
+    <pointer id="61">
+        <link>http://www.brickgun.com/</link>
+        <img></img>
+        <name>brickgun</name>
+    </pointer>
+    <pointer id="62">
+        <link>http://filekoala.net</link>
+        <img></img>
+        <name>filekoala</name>
+    </pointer>
+    <pointer id="63">
+        <link>http://www.kuimulang.com/</link>
+        <img></img>
+        <name>奎目郎模型</name>
+    </pointer>
+    <pointer id="64">
+        <link>http://www.tamasoft.co.jp/index-e.html</link>
+        <img></img>
+        <name>纸膜软件</name>
+    </pointer>
+    <pointer id="65">
+        <link>http://luci.criosweb.ro/riot/</link>
+        <img></img>
+        <name>图片优化软件</name>
+    </pointer>
+    <pointer id="66">
+        <link>http://www.penghou.net/drupal7/</link>
+        <img></img>
+        <name>候三儿</name>
+    </pointer>
+    <pointer id="67">
+        <link>http://www.thinkful.com/learn/javascript-best-practices-1/</link>
+        <img></img>
+        <name>javascript实践</name>
+    </pointer>
+    <pointer id="68">
+        <link>http://zhuanlan.zhihu.com/riobard</link>
+        <img></img>
+        <name>知乎riobard</name>
+    </pointer>
+    <pointer id="69">
+        <link>http://zh.learnlayout.com/</link>
+        <img></img>
+        <name>learnlayout</name>
+    </pointer>
+    <pointer id="70">
+        <link>http://wiznetbj.diandian.com/</link>
+        <img></img>
+        <name>wiznet北京</name>
+    </pointer>
+    <pointer id="71">
+        <link>http://www.freehao123.com/</link>
+        <img></img>
+        <name>免费资源部落</name>
+    </pointer>
+    <pointer id="72">
+        <link>http://laoniangke.com/</link>
+        <img></img>
+        <name>laoniangke.com</name>
+    </pointer>
+    <pointer id="73">
+        <link>http://www.lixin.me/blog/2013/05/09/29726</link>
+        <img></img>
+        <name>自己写了一个dnspod 动态域名脚本</name>
+    </pointer>
+    <pointer id="74">
+        <link>http://www.imjune.com/</link>
+        <img></img>
+        <name>运维人生</name>
+    </pointer>
+    <pointer id="75">
+        <link>http://nfplayer.com/</link>
+        <img></img>
+        <name>知行合一</name>
+    </pointer>
+    <pointer id="76">
+        <link>http://debuggable.com/posts/understanding-node-js:4bd98440-45e4-4a9a-8ef7-0f7ecbdd56cb</link>
+        <img></img>
+        <name>Understanding node.js</name>
+    </pointer>
+    <pointer id="77">
+        <link>http://www.wooyun.org/index.php</link>
+        <img></img>
+        <name>自由平等开放的漏洞报告平台</name>
+    </pointer>
+    <pointer id="78">
+        <link>http://www.soimort.org/</link>
+        <img></img>
+        <name>soimort</name>
+    </pointer>
+    <pointer id="79">
+        <link>http://perfectionkills.com/exploring-canvas-drawing-techniques/</link>
+        <img></img>
+        <name>多种画笔</name>
+    </pointer>
+    <pointer id="80">
+        <link>https://github.com/youyudehexie/node123</link>
+        <img></img>
+        <name>node.js中文资料导航</name>
+    </pointer>
+    <pointer id="81">
+        <link>http://www.brsa.org.cn/</link>
+        <img></img>
+        <name>北京市无线电运动协会</name>
+    </pointer>
+
+
+
+</root>

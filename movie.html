@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="bootstrap/css/bootstrap.css" rel="stylesheet" media="screen">
+  <link href='http://fonts.googleapis.com/css?family=Aldrich' rel='stylesheet' type='text/css'>
+	
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <title>电影</title>
+	
+	
+	<!--调用jquery,bootstrap-->
+	<script src="javascripts/jquery-1.9.1.min.js"></script>
+	<script src="bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="FeedEk-master/js/FeedEk.js"></script>
+
+
+
+<script type="text/javascript" >
+    $(document).ready(function () {  
+        $('#divRss').FeedEk({
+            FeedUrl: 'http://impressmost.com/feed',
+            MaxCount: 20,
+            ShowDesc: true,
+            ShowPubDate: true
+            //DescCharacterLimit: 100
+
+        });
+		
+
+	    });    
+
+</script>
+
+
+
+  </head>
+
+  <body>
+
+
+    这个杀手不太冷，春光乍泄，守望者联盟，怦然心动，机器人瓦力，霸王别姬，末代皇帝，甜蜜蜜，天空之城，悬崖上的金鱼公主，倩女幽魂，泰坦尼克，毕业生，天使爱美丽，猜火车，虎胆龙威，小武，上帝之城，雨中曲，海洋，阳光灿烂的日子，飞越疯人院，阿甘正传，美国丽人，兰戈，两杆大烟枪，V字仇杀队，星球大战，第五元素，盗梦空间，逍遥法外，创战纪，天生杀人狂，蝙蝠侠前传:黑暗骑士，阳光小美女，终结者2，七武士，洛奇，罗拉快跑，肖申克的救赎，活着，海洋，细细的红线，全金属外壳，桂河大桥，美丽人生，辛德勒名单，拯救大兵瑞恩，勇敢的心，异形，鬼子来了，红高粱，断背山，罗生门，东京物语，美国往事、低俗小说、大独裁者、贫民窟的百万富翁、追捕、战马、、杀死比尔、精武门<br/>
+
+至电影的一封情书
+
+<embed src="http://player.youku.com/player.php/sid/XNDIyMTkyMDg4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+
+<embed src="http://player.youku.com/player.php/sid/XNTQ1NDQ0MzY4/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+
+<div class="rssDiv">
+<div id="divRss"></div>
+</div>
+
+
+
+
+
+
+
+  </body>
+</html>
