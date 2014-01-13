@@ -410,8 +410,16 @@
         <img></img>
         <name>中医点评</name>
     </pointer>
-
-
+    <pointer id="83">
+        <link>http://ocw.mit.edu/index.htm</link>
+        <img></img>
+        <name>mitOCW</name>
+    </pointer>
+    <pointer id="84">
+        <link>http://www.virtualbreadboard.com/</link>
+        <img></img>
+        <name>virtualbreadboard</name>
+    </pointer>
 
 
 
