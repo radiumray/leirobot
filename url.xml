@@ -435,6 +435,13 @@
         <img></img>
         <name>arduino-tvout</name>
     </pointer>
+    <pointer id="88">
+        <link>http://pragprog.com/magazines/2011-08/make-your-own-video-game-system/</link>
+        <img></img>
+        <name>make-your-own-video-game-system</name>
+    </pointer>
+
+
 
 
 </root>
