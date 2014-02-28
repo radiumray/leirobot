@@ -18,6 +18,31 @@
 	<script src="bootstrap/js/bootstrap.min.js"></script>
 
 
+<script type="text/javascript" src="FeedEk-master/js/FeedEk.js"></script>
+
+
+
+
+<script type="text/javascript" >
+    $(document).ready(function () {  
+        $('#divRss').FeedEk({
+            FeedUrl: 'http://zhan.renren.com/leirobot/rss',
+            MaxCount: 5,
+            ShowDesc: true,
+            ShowPubDate: true
+            //DescCharacterLimit: 100
+
+        });
+
+    
+
+      });    
+
+</script>
+
+
+
+
 
   </head>
 
@@ -38,6 +63,17 @@ http://www.geek-workshop.com/thread-4950-1-1.html<br/>
 地球的共振频率接近8赫兹(7.83赫兹)，由tesla首先发现，后成为舒曼波(一九五四年德国物理学家舒曼(W.O.Schumann)),舒曼波的波长相当于地球圆周，换算成频率约合八至十赫兹。<br/>
 
 
+
+
+<div class="rssDiv">
+雷的肉包子-小站
+<div id="divRss"></div>
+</div>
+
+
+
+
+http://zhan.renren.com/leirobot/rss
 
   </body>
 </html>
