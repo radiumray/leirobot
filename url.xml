@@ -450,7 +450,11 @@
         <img></img>
         <name>打造属于自己的前端开发神器</name>
     </pointer>
-
+    <pointer id="91">
+        <link>http://nqdeng.github.io/7-days-nodejs/</link>
+        <img></img>
+        <name>7天Node.js</name>
+    </pointer>
 
 
 
