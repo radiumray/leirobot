@@ -465,7 +465,16 @@
         <img></img>
         <name>比尔盖子-博客</name>
     </pointer>
-
+    <pointer id="94">
+        <link>http://blog.csdn.net/rill_zhen</link>
+        <img></img>
+        <name>rill的博客</name>
+    </pointer>
+    <pointer id="95">
+        <link>http://diydrones.com/</link>
+        <img></img>
+        <name>diydrones</name>
+    </pointer>
 
 
 </root>
