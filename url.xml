@@ -475,6 +475,18 @@
         <img></img>
         <name>diydrones</name>
     </pointer>
+    <pointer id="96">
+        <link>http://wemaker.cc/</link>
+        <img></img>
+        <name>wemaker</name>
+    </pointer>
+    <pointer id="97">
+        <link>http://itercast.com/</link>
+        <img></img>
+        <name>itercast</name>
+    </pointer>
+
+
 
 
 </root>
