@@ -485,14 +485,21 @@
         <img></img>
         <name>itercast</name>
     </pointer>
-
     <pointer id="98">
         <link>http://www.panelook.cn/</link>
         <img></img>
         <name>液晶屏库</name>
     </pointer>
-
-
+    <pointer id="99">
+        <link>http://www.tomnod.com/nod/</link>
+        <img></img>
+        <name>数字卫星</name>
+    </pointer>
+    <pointer id="100">
+        <link>http://www.benben.cc/</link>
+        <img></img>
+        <name>笨笨剥壳</name>
+    </pointer>
 
 
 
