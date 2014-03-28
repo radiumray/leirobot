@@ -500,8 +500,21 @@
         <img></img>
         <name>笨笨剥壳</name>
     </pointer>
-
-
+    <pointer id="101">
+        <link>http://pianyishuo.com/</link>
+        <img></img>
+        <name>便宜说</name>
+    </pointer>
+    <pointer id="102">
+        <link>http://randomnerdtutorials.com/</link>
+        <img></img>
+        <name>randomnerdtutorials</name>
+    </pointer>
+    <pointer id="103">
+        <link>http://girshwin.com/</link>
+        <img></img>
+        <name>Jason Berger</name>
+    </pointer>
 
 
 </root>
