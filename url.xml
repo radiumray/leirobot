@@ -515,6 +515,31 @@
         <img></img>
         <name>Jason Berger</name>
     </pointer>
+    <pointer id="104">
+        <link>http://solutions-cubed.com/</link>
+        <img></img>
+        <name>solutions-cubed</name>
+    </pointer>
+    <pointer id="105">
+        <link>http://www.diy-robots.com/</link>
+        <img></img>
+        <name>diy-robots</name>
+    </pointer>
+    <pointer id="106">
+        <link>http://www.cnblogs.com/relax/</link>
+        <img></img>
+        <name>Relax Blog</name>
+    </pointer>
+    <pointer id="107">
+        <link>http://www.bokeyy.com/</link>
+        <img></img>
+        <name>博客歪歪</name>
+    </pointer>
+    <pointer id="108">
+        <link>http://minidiy.sinaapp.com/</link>
+        <img></img>
+        <name>EToh</name>
+    </pointer>
 
 
 </root>
