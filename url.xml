@@ -540,6 +540,16 @@
         <img></img>
         <name>EToh</name>
     </pointer>
+    <pointer id="109">
+        <link>http://www.learningprocessing.com/</link>
+        <img></img>
+        <name>learning processing</name>
+    </pointer>
+    <pointer id="110">
+        <link>http://natureofcode.com/</link>
+        <img></img>
+        <name>nature of code</name>
+    </pointer>
 
 
 </root>
