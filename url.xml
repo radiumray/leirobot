@@ -550,6 +550,36 @@
         <img></img>
         <name>nature of code</name>
     </pointer>
+    <pointer id="111">
+        <link>http://www.jeremyblum.com/</link>
+        <img></img>
+        <name>jeremyblum</name>
+    </pointer>
+    <pointer id="112">
+        <link>http://midihacker.com/category/arduino/</link>
+        <img></img>
+        <name>midihacker</name>
+    </pointer>
+    <pointer id="113">
+        <link>http://electrical-engineering-portal.com/</link>
+        <img></img>
+        <name>EEP</name>
+    </pointer>
+    <pointer id="114">
+        <link>http://www.linux.org/</link>
+        <img></img>
+        <name>linux</name>
+    </pointer>
+    <pointer id="115">
+        <link>http://j44industries.blogspot.com</link>
+        <img></img>
+        <name>j44industries</name>
+    </pointer>
+    <pointer id="116">
+        <link>http://www.ibm.com/developerworks/cn/opensource/tutorials/os-arduino1/index.html</link>
+        <img></img>
+        <name>os-arduino1</name>
+    </pointer>
 
 
 </root>
