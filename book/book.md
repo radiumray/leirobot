@@ -3,13 +3,13 @@
 
 ## <a href="作者成长经历随笔.md">作者成长经历随笔</a>
 
-## 关于本书
+## <a href="关于本书.md">关于本书</a>
 
 ## 内容链接
 
 序号 |目录 | 内容 |
 -----|-------|-----|
-1| python精简介绍 | anaconda安装配置虚拟环境，显示python版本 |
+1| <a href="python精简介绍.md">python精简介绍</a> | anaconda安装配置虚拟环境，显示python版本 |
 2| opencv精简介绍 | 安装opencv-python，浏览opencv官网案例 |
 3| 机器学习 | 线性回归和梯度下降的数学原理和启发 |
 4| gpu开发环境搭建 | 显卡驱动安装配置 |
