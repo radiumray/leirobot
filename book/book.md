@@ -20,7 +20,7 @@
 9| <a href="https://www.bilibili.com/read/cv4631980">opencv立透视，形态学，轮廓</a> | 对车道线生成鸟瞰图，膨胀，腐蚀，轮廓判断车道线的个数和位置 |
 10| 模拟器搭建 | airsim安装，GTA5 |
 11| <a href="https://www.bilibili.com/read/cv4690036">路径规划</a> | 动态窗口算法实现 |
-12| 模型优化(NCNN, TensorRT) | NCNN，TensoRT安装配置 |
-13| qt，C++，opencv开发环境编译部署 | 搭建步骤文档，代码模板 |
+12| <a href="https://www.bilibili.com/read/cv4691966">模型优化(NCNN, TensorRT)</a> | NCNN，TensoRT安装配置 |
+13| <a href="https://www.bilibili.com/read/cv4692497">qt，C++，opencv开发环境编译部署</a> | 搭建步骤文档，代码模板 |
 14| linux c++串口通讯驱动 | 串口通讯控制硬件 |
 
