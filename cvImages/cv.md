@@ -16,12 +16,10 @@
 
 ### 基本信息
 > 性别：男，出生年月：1983年12月24日
-
-### 教育背景，最高学历：硕士                                                              
+### 教育背景，最高学历：硕士
 > 2002.9 — 2006.7 	北京城市学院       软件工程（应用软件开发）
 ---
 > 2006.10 – 2008.1      桑德兰大学, 桑德兰，英国    理学硕士 E-technology for business
-
 ### 工作经历
 > 2004.10 – 2005.2月在 E 国电子商务 | 网站开发 <br/>
 > 开发语言为：php, javascript, html 数据库为mysql
@@ -34,16 +32,14 @@
 > 2012.12 — 2014.4 世纪爱晚 | 项目产业部-经理
 ---
 > 2014.4 — 至今 美科科技(北京)有限公司 | 嵌入式研发工程师
-
 ### 做过的项目
 > 2018年至今
 ---
 预研Opencv, tensorflow, keras开始做基于视觉的自动驾驶<br/>
 随后参考了donkeycar的方案，开发了用于大学生人工智能比赛用车<br/>
 最后自研基于实际道路的自动驾驶（yolo，centernet，leneNet），资料整理如下：<br/>
-<a href="https://github.com/radiumray/leirobot/blob/gh-pages/book/book.md">资料目录传送门</a><br/>
+<a href="https://github.com/radiumray/leirobot/blob/gh-pages/book/book.md">资料目录传送门</a> |
 <a href="https://www.bilibili.com/video/av94599742/">相关视频传送门</a><br/>
-
 > 同时也有如下实现案例
 ---
 Opencv机器视觉读电表：<br/>
@@ -58,17 +54,13 @@ Opencv机器视觉读电表：<br/>
 物体检测追踪算法：<br/>
 人流量统计（centernet+deepSort）<br/>
 
-<a herf="https://www.bilibili.com/video/av94985729/">相关视频传送门</a><br/>
-
+<a href="https://www.bilibili.com/video/av94985729/">相关视频传送门</a><br/>
 > 写了4节机器学习的课程，数学公式推导
 ---
 数学公式推导，函数求导，损失函数，梯度下降，线性回归，python numpy实现，3d图动画展示梯度下降<br/>
-https://github.com/radiumray/ML
-
+https://github.com/radiumray/ML<br/>
 <img src="lm.gif" width=50% height=50%><br/>
-
-<a herf="https://space.bilibili.com/482139222/channel/detail?cid=111159">相关视频传送门</a><br/>
-
+<a href="https://space.bilibili.com/482139222/channel/detail?cid=111159">相关视频传送门</a><br/>
 
 > 2016年至2018年
 ---
@@ -77,25 +69,23 @@ ESP32的图传遥控车，用于自动驾驶，自动驾驶神经网络处理在
 
 > 2014年至2016年
 ---
-嵌入式相关开发工作，固件开发，应用开发，物联网，去各个大学培训老师和学生
-基于各种模块对mixly进行二次开发：
-https://github.com/radiumray/mdxly
-
+嵌入式相关开发工作，固件开发，应用开发，物联网，去各个大学培训老师和学生<br/>
+基于各种模块对mixly进行二次开发：<br/>
+https://github.com/radiumray/mdxly<br/>
 
 > 2013年至2014年
 ---
-基于microduino模块写wiki教程 <a href="https://wiki.microduino.cn/index.php/%E5%85%B6%E4%BB%96%E6%95%99%E7%A8%8B">维基教程地址</a> 这部分教程在大学里比较受欢迎
-推荐作品：<a href="https://wiki.microduino.cn/index.php/Microduino_%E8%87%AA%E5%8A%A8%E5%AF%BC%E6%98%9F%E7%BB%8F%E7%BA%AC%E4%BB%AA/zh">自动导星经纬仪</a> <a href="https://wiki.microduino.cn/index.php/Microduino_%E5%85%89%E4%BC%A0%E8%BE%93%E8%8E%AB%E5%B0%94%E6%96%AF%E7%A0%81/zh">光传输莫尔斯码</a> <a href="https://wiki.microduino.cn/index.php/Microduino_%E7%94%B5%E7%A3%81%E7%82%AE/zh">电磁炮</a> <a href="https://wiki.microduino.cn/index.php/Microduino_%E8%A7%86%E9%A2%91%E8%BE%93%E5%87%BA/zh">视频输出</a> 
-相关视频：
-https://radiumray.github.io/2019/08/11/struggle/
+基于microduino模块写wiki教程 <a href="https://wiki.microduino.cn/index.php/%E5%85%B6%E4%BB%96%E6%95%99%E7%A8%8B">维基教程地址</a> 这部分教程在大学里比较受欢迎<br/>
+推荐作品：<a href="https://wiki.microduino.cn/index.php/Microduino_%E8%87%AA%E5%8A%A8%E5%AF%BC%E6%98%9F%E7%BB%8F%E7%BA%AC%E4%BB%AA/zh">自动导星经纬仪</a> <a href="https://wiki.microduino.cn/index.php/Microduino_%E5%85%89%E4%BC%A0%E8%BE%93%E8%8E%AB%E5%B0%94%E6%96%AF%E7%A0%81/zh">光传输莫尔斯码</a> <a href="https://wiki.microduino.cn/index.php/Microduino_%E7%94%B5%E7%A3%81%E7%82%AE/zh">电磁炮</a> <a href="https://wiki.microduino.cn/index.php/Microduino_%E8%A7%86%E9%A2%91%E8%BE%93%E5%87%BA/zh">视频输出</a> <br/>
 
-> 嵌入式经验：
-开发板：熟悉arduino及各种microduino模块,ESP8266,ESP32,K210，Linux系统应用开发
-嵌入式开发语言：熟悉c,c++,python
-通讯协议：UART，I2C，SPI，RS485，蓝牙，wifi，nrf24
+<a href="https://radiumray.github.io/2019/08/11/struggle/">相关视频传送门</a>
 
-> 自我评价
----
+### 嵌入式经验：
+开发板：熟悉arduino及各种microduino模块,ESP8266,ESP32,K210，Linux系统应用开发<br/>
+嵌入式开发语言：熟悉c,c++,python<br/>
+通讯协议：UART，I2C，SPI，RS485，蓝牙，wifi，nrf24<br/>
+
+### 自我评价
 学习能力强，一直是喜欢研究，对未知的有意义的领域有欲望去探索，觉得人工智能是一个可以长期投入的领域，疫情期间在家自学UE4虚幻引擎C++开发，觉得可以和嵌入式硬件，物联网和人工智能相结合。
 
 
